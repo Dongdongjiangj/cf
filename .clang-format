@@ -19,7 +19,7 @@ BraceWrapping:
   SplitEmptyFunction: true
   SplitEmptyRecord: true
   SplitEmptyNamespace: true
-AccessModifierOffset: -4
+AccessModifierOffset: -2
 BinPackArguments: false
 BinPackParameters: false
 AlignAfterOpenBracket: BlockIndent
